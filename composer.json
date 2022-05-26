@@ -18,11 +18,11 @@
     "license": "MIT",
     "homepage": "https://github.com/nelkasovic/laravel-full-calendar",
     "support": {
-        "email": "nermin@qlick.ch",
-        "issues": "https://github.com/nelkasovic/laravel-full-calendar/issues",
-        "wiki": "https://github.com/nelkasovic/laravel-full-calendar/wiki",
-        "source": "https://github.com/nelkasovic/laravel-full-calendar",
-        "docs": "https://github.com/nelkasovic/laravel-full-calendar"
+        "email": "naowas.morshed@gmail.com",
+        "issues": "https://github.com/naowas/laravel-full-calendar/issues",
+        "wiki": "https://github.com/naowas/laravel-full-calendar/wiki",
+        "source": "https://github.com/naowas/laravel-full-calendar",
+        "docs": "https://github.com/naowas/laravel-full-calendar"
     },
     "autoload": {
         "psr-4": {
